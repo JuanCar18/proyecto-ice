@@ -1,0 +1,9 @@
+PyQt5==5.15.10
+pyqtgraph==0.13.7
+matplotlib==3.8.4
+numpy==1.26.4
+scipy==1.13.0
+pandas==2.2.2
+scikit-learn==1.4.2
+joblib==1.4.2
+pyserial==3.5
